@@ -1,0 +1,56 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+seq3            -------------------CGGCTCATAGGGTCACTCCCCGCTTCGGG----G-AGCCTG
+seq4            -------------------CGGCTCATAGGGTCACTCCCCGCTTCGGG----G-AGCCTG
+seq2            -------------------CGGCTCATAGGGCCCTCCCCCGTTAAGGG----GGAGCCTG
+seq1            -------------------CGGCTCATAGGGCTGCTCCCCGTGAGGGG----G-AGCCTG
+seq5            -------------------CGGCTCATACGGATATCCCAGGCTTTACGCCT-GGGTCCTG
+seq17           -------------------GGGCTGCTGAGGCGAGCTCAGTCTGGATG--------CCTC
+seq8            -----------GGGCTCCAGAGGCCATGAGGATAGGCGGGTTTGCTGACCTCGGGGCGTG
+seq10           -----------GGGCTCCAGAGGCCATGAGGATAGGCGGGTTTGCTGACCTCGGGGCGTG
+seq9            -----------GGGCTCCAGAGGCCATGAGGACAGGCGGGTTTGCTGACCTCGGGGCGTG
+seq13           -----------GGGCTCCAGAGGCCATGAGGACAGGCGGGTTTGCTGACCTCGGGGCGTG
+seq11           -----------GGGCTCCAGCGGC-GTGATGATTGACGGGTCTGCTGAGCG------GTG
+seq7            -----------GGACTCAAGACCTGATGGGGAGAAATC----------------------
+seq19           -----------------GGGCCGGAACCCGGTGAACCTACCATTCCGGTGCAAAGGCCGG
+seq22           ---------------------------------AGGCTCTCAAGGAGGTCTACGACCCCG
+seq20           -------------------GGGCTCGAAAGGCCCGCATGTTTGACCGGGCTACACCACCG
+seq15           -------------------TGACTCCAGAGGCCC--GCGCGA---GGC-----GCACCGG
+seq21           ----------GGACCCTAGAGCCCCTGCCAGCCC--CCAGGG---GGCTGC--GGGGCGG
+seq6            GGACTCATACGGCCCGGCTAAACACCCACAGGCC--GAAGTC---GCCTGG--GGGCCTG
+seq18           -------------------GGGCTGCAGAGGACCTGGCCCGT---AGAGAC--CC-----
+seq25           -------------------GGACTGTAGTGGACGTGTCACCC---ATCCTC--CTGCCGC
+seq12           -------------------GGACTCCAGTTGCCTATAGGGCGC-TGGACCA--CGGCAGG
+seq14           -------------------AAACTCCAGAGGCCGGAATGACA--TGGAC-------CTGG
+seq16           -------------------GGGCTCCTGTGGCCATGGTCCAATCCGCAAAT--TTTCTTG
+seq24           -----------------------------------GGCTCATAAAGATCCT--TCTCTTG
+seq23           --------------------GGCTCATAAGGCCAAGGGCGGTTTA---CGT--TGGCCCG
+                                                                            
+
+seq3            AGAAACCG---------------------------
+seq4            AGAAACCG---------------------------
+seq2            AGAAACCG---------------------------
+seq1            AGAAACCG---------------------------
+seq5            GGAAACCG---------------------------
+seq17           GGAAACCG---------------------------
+seq8            ATGAACCTTTGGAGCCCCGAGGGCCGGAGAAACCC
+seq10           ATGAACCTTTGGAGCCCCGAGGGCCGGAGAAACCC
+seq9            ATGAACCTTTGGAGCCCCGAGGGCCGGAGAAACCC
+seq13           ATGAACCTTTGGAGCCCCGAGGGCCGGAGAAACCC
+seq11           ATGACCCGTTGGAGCTCTGAC--CCGAAGAGACCC
+seq7            -----------------------------------
+seq19           AGACCC-----------------------------
+seq22           AGATACCT---------------------------
+seq20           GGGCAACCC--------------------------
+seq15           AGATATCA---------------------------
+seq21           GGATATCC---------------------------
+seq6            GGAGATCC---------------------------
+seq18           -----------------------------------
+seq25           AGAAATCC---------------------------
+seq12           AGAAATCC---------------------------
+seq14           AGAAATTT---------------------------
+seq16           GGAGACCC---------------------------
+seq24           AGAGACC----------------------------
+seq23           GAAGAC-----------------------------
+                                                   
