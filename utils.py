@@ -87,7 +87,7 @@ def find_node_weights(msa_position_counts, characters_of_interest, \
 		for i, j, weight in observed_nodes_w_weights:
 			char = characters_of_interest[j]
 
-			out.writerow([i, char, weight])
+			out.writerow([i + 1, char, weight])
 	f.close()
 
 	return observed_nodes_w_weights
@@ -209,7 +209,7 @@ def find_edge_correlations(msa_seqs, characters_of_interest, \
 			pos_1_nt = characters_of_interest[pos_1_j]
 			pos_2_nt = characters_of_interest[pos_2_j]
 
-			out.writerow([pos_1, pos_1_nt, pos_2, pos_2_nt, pvalue, cont_table])
+			out.writerow([pos_1 + 1, pos_1_nt, pos_2 + 1, pos_2_nt, pvalue, cont_table])
 	f.close()
 
 	return observed_edges_w_weights
